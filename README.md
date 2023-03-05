@@ -1,12 +1,7 @@
 
-
-
-
-
 ![BOTPUXADA](https://user-images.githubusercontent.com/20786530/222985521-6d62dde3-83b1-438b-aa5d-7a213f680c89.jpg)
 
-
-
+# SO MANTEMOS O QUE TEMOS COMPARTILHAMOS O QUE SABEMOS
 
 
 #!/bin/bash
@@ -74,4 +69,18 @@ npm install yt-channel-info@3.0.3
 npm install yt-search@2.10.2
 npm install ytdl-core@4.11.0
 
-# Define o script de
+# AGORA ENTRAR NO SITE DO MONGODB
+https://www.mongodb.com/ 
+
+1.PASSO CRIAR FREE
+2. CRIAR SENHA 
+3. INSERIR IP DO SEU VPS ONDE BOT ESTA
+![76d8e19b-d5dc-4065-97de-dd6e43a062be](https://user-images.githubusercontent.com/20786530/222986949-45b391a7-5907-4ddf-a1fc-0783fd4e1310.jpg)
+
+AGORA VAMOS CRIAR LINK PARA VC INSERIR DENTRO DO ARQUIVO CONFIG.JS DO SEU BANCO MONGODB
+![a67e9f9f-19bc-444d-bca5-e52068926747](https://user-images.githubusercontent.com/20786530/222987025-e6c87e81-6289-4aec-8cd0-a7d0099d7061.jpg)
+
+POR FIM PEGUE LINK NODE E NAO ESQUEÇA DE ALTERAR O LINK SUA SENHA CRIADA NO PRIMEIRO PASSO. PRONTO BOT ONLINE
+![image](https://user-images.githubusercontent.com/20786530/222987060-0f4f0ec1-26dd-471d-8583-b68cb28ed257.png)
+
+
